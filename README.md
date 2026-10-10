@@ -22,7 +22,7 @@ Développement d'un outil de transformation de données : back-end Java / Spring
 
 | Projet | Description |
 | --- | --- |
-| **Gestion d'école primaire** | Application de gestion complète d'une école primaire privée — projet fédéré, 20/20 |
+| **[EduManager](https://github.com/RadhwenT/EduManager)** | Application JavaFX + Oracle de gestion complète d'une école primaire privée (4 rôles, notes, paiements) — projet fédéré, 20/20 |
 | **Gestion des clubs universitaires** | Site web de gestion des clubs d'une université — projet tutoré |
 | **E_FastOrder** | Application de commande avec partage de position sur carte avant validation |
 | **BD chaîne de restaurants** | Modélisation et implémentation d'une base Oracle multi-restaurants |
