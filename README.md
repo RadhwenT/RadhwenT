@@ -1,6 +1,6 @@
 # Bonjour, je suis Radhwen Trabelsi 👋
 
-Étudiant en 3e année de **Licence Génie Logiciel et Systèmes d'Information** à l'Institut International de Technologie (IIT, Sfax), **major de promotion** en 1re et 2e année.
+Étudiant en 3e année de **Licence Génie Logiciel et Systèmes d'Information** à l'Institut International de Technologie (IIT, Sfax), **major de promotion** .
 
 🎯 Je recherche un **stage PFE (2027)** en **développement logiciel** — web, mobile, back-end ou data — à Sfax ou à Tunis. Curieux de toutes les technologies, j'aime apprendre vite et livrer du code testé.
 
