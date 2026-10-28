@@ -40,7 +40,7 @@ Stage d'été au sein d'une équipe de développement, en binôme : application 
 
 ## Hi, I'm Radhwen Trabelsi 👋
 
-Third-year **Software Engineering & Information Systems** student (Bachelor's degree) at the International Institute of Technology (IIT, Sfax, Tunisia), **ranked first in my class** in my first and second years.
+Third-year **Software Engineering & Information Systems** student (Bachelor's degree) at the International Institute of Technology (IIT, Sfax, Tunisia), **ranked first in my class** .
 
 🎯 I'm looking for a **final-year internship (PFE, 2027)** in **software development** — web, mobile, back-end or data — in Sfax or Tunis. I'm curious about every technology, I learn fast and I like shipping tested code.
 
